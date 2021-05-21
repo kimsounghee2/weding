@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "slick",
+			"path": "c:\\Users\\wooko\\Downloads\\slick-1.8.1 (2)\\slick-1.8.1\\slick"
+		},
+		{
+			"name": "20210507_weding",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "20210507_weding"
+	}
+}
